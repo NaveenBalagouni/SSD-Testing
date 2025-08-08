@@ -1,0 +1,3 @@
+https://ssd.opsmx.com/api/status
+https://ssd.opsmx.com/ui/login
+https://ssd.opsmx.com/gate/health
