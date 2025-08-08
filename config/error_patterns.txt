@@ -1,0 +1,10 @@
+ERROR
+Exception
+FATAL
+failed
+Traceback
+timeout
+Connection refused
+NullPointerException
+deployment failed
+Service Unavailable
