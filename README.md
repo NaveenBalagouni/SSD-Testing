@@ -37,6 +37,25 @@ opsmx_ssd_debugger/
 │   └── utils.py**
 ```
 
+opsmx_ssd_debugger/
+├── main.py                   # Entrypoint
+├── README.md
+├── requirements.txt
+├── config/
+│   ├── error_patterns.txt    # Error keywords
+│   └── endpoints.txt         # URLs to check
+├── logs/
+│   └── sample_backend.log    # Real or test log files
+├── output/
+│   └── ssd_issues_report.txt # Report output
+├── src/
+│   ├── __init__.py
+│   ├── backend_checker.py    # Scans logs
+│   ├── ui_checker.py         # Checks UI/APIs
+│   └── utils.py              # File I/O & helpers
+└── tests/                    # Unit & integration tests
+
+
 ---
 
 ## ✅ Step-by-Step Breakdown
